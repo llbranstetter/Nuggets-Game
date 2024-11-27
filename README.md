@@ -1,5 +1,6 @@
 # Nuggets
 ## Team Big D Nuggies, Fall 2024
+### Rana Moeez Hassan, Jake Fleming, Leah Branstetter, Kellen Seeley
 
 This repository contains the code for the CS50 "Nuggets" game, in which players explore a set of rooms and passageways in search of gold nuggets.
 The rooms and passages are defined by a *map* loaded by the server at the start of the game.
