@@ -1,0 +1,1305 @@
+==781912== Memcheck, a memory error detector
+==781912== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==781912== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==781912== Command: ../../shared/nuggets/linux/client babylon1 41269 jake
+==781912== 
+START OF LOG
+client on port 50402
+interactive player mode; name 'rana'
+OK message received: OK A
+GRID message received: GRID 21 79
+displayStart
+wRows = 43
+wCols = 168
+DISPLAY message received
+GOLD message received: GOLD 0 0 250
+DISPLAY message received
+GOLD message received: GOLD 0 0 250
+DISPLAY message received
+GOLD message received: GOLD 0 0 250
+DISPLAY message received
+GOLD message received: GOLD 0 0 250
+GOLD message received: GOLD 9 9 241
+GOLD message received: GOLD 0 9 241
+DISPLAY message received
+GOLD message received: GOLD 0 9 241
+DISPLAY message received
+GOLD message received: GOLD 0 9 241
+GOLD message received: GOLD 1 10 240
+GOLD message received: GOLD 0 10 240
+DISPLAY message received
+GOLD message received: GOLD 0 10 240
+DISPLAY message received
+GOLD message received: GOLD 0 10 240
+DISPLAY message received
+GOLD message received: GOLD 0 10 240
+DISPLAY message received
+GOLD message received: GOLD 0 10 240
+DISPLAY message received
+GOLD message received: GOLD 0 10 240
+DISPLAY message received
+GOLD message received: GOLD 0 10 240
+GOLD message received: GOLD 1 11 239
+GOLD message received: GOLD 0 11 239
+DISPLAY message received
+GOLD message received: GOLD 0 11 239
+DISPLAY message received
+GOLD message received: GOLD 0 11 239
+DISPLAY message received
+GOLD message received: GOLD 0 11 239
+DISPLAY message received
+GOLD message received: GOLD 0 11 239
+GOLD message received: GOLD 1 12 238
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+DISPLAY message received
+GOLD message received: GOLD 0 12 238
+GOLD message received: GOLD 0 12 16
+DISPLAY message received
+GOLD message received: GOLD 0 12 16
+DISPLAY message received
+GOLD message received: GOLD 0 12 16
+DISPLAY message received
+GOLD message received: GOLD 0 12 16
+DISPLAY message received
+GOLD message received: GOLD 0 12 16
+DISPLAY message received
+GOLD message received: GOLD 0 12 16
+DISPLAY message received
+GOLD message received: GOLD 0 12 16
+DISPLAY message received
+GOLD message received: GOLD 0 12 16
+DISPLAY message received
+GOLD message received: GOLD 0 12 16
+DISPLAY message received
+GOLD message received: GOLD 0 12 16
+DISPLAY message received
+GOLD message received: GOLD 0 12 16
+DISPLAY message received
+GOLD message received: GOLD 0 12 16
+DISPLAY message received
+GOLD message received: GOLD 0 12 16
+DISPLAY message received
+GOLD message received: GOLD 0 12 16
+DISPLAY message received
+GOLD message received: GOLD 0 12 16
+DISPLAY message received
+GOLD message received: GOLD 0 12 16
+DISPLAY message received
+GOLD message received: GOLD 0 12 16
+DISPLAY message received
+GOLD message received: GOLD 0 12 16
+DISPLAY message received
+GOLD message received: GOLD 0 12 16
+DISPLAY message received
+GOLD message received: GOLD 0 12 16
+DISPLAY message received
+GOLD message received: GOLD 0 12 16
+DISPLAY message received
+GOLD message received: GOLD 0 12 16
+DISPLAY message received
+GOLD message received: GOLD 0 12 16
+GOLD message received: GOLD 1 13 15
+GOLD message received: GOLD 0 13 15
+DISPLAY message received
+GOLD message received: GOLD 0 13 15
+DISPLAY message received
+GOLD message received: GOLD 0 13 15
+DISPLAY message received
+GOLD message received: GOLD 0 13 15
+DISPLAY message received
+GOLD message received: GOLD 0 13 15
+GOLD message received: GOLD 0 13 14
+DISPLAY message received
+GOLD message received: GOLD 0 13 14
+DISPLAY message received
+GOLD message received: GOLD 0 13 14
+DISPLAY message received
+GOLD message received: GOLD 0 13 14
+DISPLAY message received
+GOLD message received: GOLD 0 13 14
+DISPLAY message received
+GOLD message received: GOLD 0 13 14
+DISPLAY message received
+GOLD message received: GOLD 0 13 14
+DISPLAY message received
+GOLD message received: GOLD 0 13 14
+DISPLAY message received
+GOLD message received: GOLD 0 13 14
+DISPLAY message received
+GOLD message received: GOLD 0 13 14
+DISPLAY message received
+GOLD message received: GOLD 0 13 14
+DISPLAY message received
+GOLD message received: GOLD 0 13 14
+DISPLAY message received
+GOLD message received: GOLD 0 13 14
+DISPLAY message received
+GOLD message received: GOLD 0 13 14
+DISPLAY message received
+GOLD message received: GOLD 0 13 14
+DISPLAY message received
+GOLD message received: GOLD 0 13 14
+DISPLAY message received
+GOLD message received: GOLD 0 13 14
+==820900== 
+==820900== HEAP SUMMARY:
+==820900==     in use at exit: 136,914 bytes in 209 blocks
+==820900==   total heap usage: 257 allocs, 48 frees, 171,048 bytes allocated
+==820900== 
+==820900== 4 bytes in 1 blocks are still reachable in loss record 1 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48A22A1: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 9 bytes in 1 blocks are still reachable in loss record 2 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4A8F34E: strdup (strdup.c:42)
+==820900==    by 0x48D06A5: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2B8B: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 9 bytes in 1 blocks are still reachable in loss record 3 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4A8F34E: strdup (strdup.c:42)
+==820900==    by 0x48D06A5: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2BC3: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 9 bytes in 1 blocks are still reachable in loss record 4 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4A8F34E: strdup (strdup.c:42)
+==820900==    by 0x48D06A5: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2BFB: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 9 bytes in 1 blocks are still reachable in loss record 5 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4A8F34E: strdup (strdup.c:42)
+==820900==    by 0x48D06A5: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2DAA: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 9 bytes in 1 blocks are still reachable in loss record 6 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4A8F34E: strdup (strdup.c:42)
+==820900==    by 0x48D06A5: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2DF8: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 9 bytes in 1 blocks are still reachable in loss record 7 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4A8F34E: strdup (strdup.c:42)
+==820900==    by 0x48D06A5: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2E46: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 9 bytes in 1 blocks are possibly lost in loss record 8 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4A8F34E: strdup (strdup.c:42)
+==820900==    by 0x48D06A5: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2B53: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 11 bytes in 1 blocks are still reachable in loss record 9 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4A8F34E: strdup (strdup.c:42)
+==820900==    by 0x48D06A5: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2C30: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 11 bytes in 1 blocks are still reachable in loss record 10 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4A8F34E: strdup (strdup.c:42)
+==820900==    by 0x48D06A5: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2C68: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 15 bytes in 1 blocks are still reachable in loss record 11 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4A8F34E: strdup (strdup.c:42)
+==820900==    by 0x48D8328: _nc_setupterm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A21F7: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 17 bytes in 1 blocks are still reachable in loss record 12 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4A8F34E: strdup (strdup.c:42)
+==820900==    by 0x48D06A5: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2B1B: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 17 bytes in 1 blocks are still reachable in loss record 13 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4A8F34E: strdup (strdup.c:42)
+==820900==    by 0x48D06A5: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A0813: ??? (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3016: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900== 
+==820900== 20 bytes in 1 blocks are still reachable in loss record 14 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4A8F34E: strdup (strdup.c:42)
+==820900==    by 0x48D06A5: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2E99: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 23 bytes in 1 blocks are still reachable in loss record 15 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4A8F34E: strdup (strdup.c:42)
+==820900==    by 0x48CB2D0: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48CDF9D: _nc_first_db (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48DCA8A: _nc_read_entry2 (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D8135: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D82C5: _nc_setupterm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A21F7: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 24 bytes in 1 blocks are still reachable in loss record 16 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4B034E0: tsearch (tsearch.c:337)
+==820900==    by 0x48D06C7: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2B1B: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 24 bytes in 1 blocks are still reachable in loss record 17 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4B03541: tsearch (tsearch.c:337)
+==820900==    by 0x48D06C7: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2B8B: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 24 bytes in 1 blocks are still reachable in loss record 18 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4B03541: tsearch (tsearch.c:337)
+==820900==    by 0x48D06C7: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2BC3: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 24 bytes in 1 blocks are still reachable in loss record 19 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4B03541: tsearch (tsearch.c:337)
+==820900==    by 0x48D06C7: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2BFB: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 24 bytes in 1 blocks are still reachable in loss record 20 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4B03541: tsearch (tsearch.c:337)
+==820900==    by 0x48D06C7: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2C30: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 24 bytes in 1 blocks are still reachable in loss record 21 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4B03541: tsearch (tsearch.c:337)
+==820900==    by 0x48D06C7: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2C68: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 24 bytes in 1 blocks are still reachable in loss record 22 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4B03541: tsearch (tsearch.c:337)
+==820900==    by 0x48D06C7: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2DAA: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 24 bytes in 1 blocks are still reachable in loss record 23 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4B03541: tsearch (tsearch.c:337)
+==820900==    by 0x48D06C7: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2DF8: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 24 bytes in 1 blocks are still reachable in loss record 24 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4B03541: tsearch (tsearch.c:337)
+==820900==    by 0x48D06C7: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2E46: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 24 bytes in 1 blocks are still reachable in loss record 25 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4B03541: tsearch (tsearch.c:337)
+==820900==    by 0x48D06C7: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2E99: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 24 bytes in 1 blocks are still reachable in loss record 26 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4B03541: tsearch (tsearch.c:337)
+==820900==    by 0x48D06C7: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A0813: ??? (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3016: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900== 
+==820900== 24 bytes in 1 blocks are possibly lost in loss record 27 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4B03541: tsearch (tsearch.c:337)
+==820900==    by 0x48D06C7: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2B53: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 24 bytes in 1 blocks are possibly lost in loss record 28 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4B03541: tsearch (tsearch.c:337)
+==820900==    by 0x48D06C7: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x489B6F7: ??? (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x489F50D: ??? (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48B35BB: doupdate_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3939: wrefresh (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10BB6F: handleDisplay (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B8B3: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 24 bytes in 1 blocks are possibly lost in loss record 29 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4B03541: tsearch (tsearch.c:337)
+==820900==    by 0x48D06C7: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x489B687: ??? (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48B35BB: doupdate_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3939: wrefresh (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10BB6F: handleDisplay (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B8B3: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 35 bytes in 1 blocks are still reachable in loss record 30 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48CD997: _nc_home_terminfo (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48CDF88: _nc_first_db (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48DCA8A: _nc_read_entry2 (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D8135: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D82C5: _nc_setupterm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A21F7: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 47 bytes in 1 blocks are still reachable in loss record 31 of 83
+==820900==    at 0x484DB80: realloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48CC9DC: _nc_doalloc (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48DB4A8: _nc_read_termtype (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48DC5C1: _nc_read_file_entry (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48DC94C: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48DCAB0: _nc_read_entry2 (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D8135: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D82C5: _nc_setupterm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A21F7: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 47 bytes in 1 blocks are still reachable in loss record 32 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48CC000: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D82F7: _nc_setupterm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A21F7: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 48 bytes in 1 blocks are still reachable in loss record 33 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48CDB9B: _nc_first_db (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48DCA8A: _nc_read_entry2 (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D8135: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D82C5: _nc_setupterm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A21F7: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900== 
+==820900== 63 bytes in 1 blocks are possibly lost in loss record 34 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4A8F34E: strdup (strdup.c:42)
+==820900==    by 0x48D06A5: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x489B6F7: ??? (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x489F50D: ??? (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48B35BB: doupdate_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3939: wrefresh (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10BB6F: handleDisplay (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B8B3: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 64 bytes in 1 blocks are possibly lost in loss record 35 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x4A8F34E: strdup (strdup.c:42)
+==820900==    by 0x48D06A5: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x489B687: ??? (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48B35BB: doupdate_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3939: wrefresh (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10BB6F: handleDisplay (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B8B3: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 70 bytes in 1 blocks are still reachable in loss record 36 of 83
+==820900==    at 0x484DB80: realloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48CC9DC: _nc_doalloc (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5B43: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2B1B: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 78 bytes in 1 blocks are still reachable in loss record 37 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48CC129: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D82F7: _nc_setupterm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A21F7: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 103 bytes in 1 blocks are still reachable in loss record 38 of 83
+==820900==    at 0x484DB80: realloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48CC9DC: _nc_doalloc (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D0237: _nc_tparm_analyze (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D05B2: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x489B6F7: ??? (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x489F50D: ??? (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48B35BB: doupdate_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3939: wrefresh (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10BB6F: handleDisplay (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B8B3: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900== 
+==820900== 104 bytes in 1 blocks are still reachable in loss record 39 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48CDAFF: _nc_first_db (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48DCA8A: _nc_read_entry2 (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D8135: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D82C5: _nc_setupterm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A21F7: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900== 
+==820900== 104 bytes in 1 blocks are still reachable in loss record 40 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x489B917: ??? (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A0AD7: newwin_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A2634: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 104 bytes in 1 blocks are still reachable in loss record 41 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x489B917: ??? (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A0AD7: newwin_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A265D: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 104 bytes in 1 blocks are still reachable in loss record 42 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x489B917: ??? (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A0AD7: newwin_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A280E: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 128 bytes in 1 blocks are still reachable in loss record 43 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48A226E: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 156 bytes in 1 blocks are still reachable in loss record 44 of 83
+==820900==    at 0x484DB80: realloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48CC9DC: _nc_doalloc (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48DB4C6: _nc_read_termtype (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48DC5C1: _nc_read_file_entry (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48DC94C: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48DCAB0: _nc_read_entry2 (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D8135: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D82C5: _nc_setupterm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A21F7: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 168 bytes in 1 blocks are still reachable in loss record 45 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48D061E: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2B1B: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 168 bytes in 1 blocks are still reachable in loss record 46 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48D061E: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2B8B: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 168 bytes in 1 blocks are still reachable in loss record 47 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48D061E: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2BC3: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 168 bytes in 1 blocks are still reachable in loss record 48 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48D061E: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2BFB: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 168 bytes in 1 blocks are still reachable in loss record 49 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48D061E: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2C30: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 168 bytes in 1 blocks are still reachable in loss record 50 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48D061E: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2C68: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 168 bytes in 1 blocks are still reachable in loss record 51 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48D061E: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2DAA: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 168 bytes in 1 blocks are still reachable in loss record 52 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48D061E: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2DF8: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 168 bytes in 1 blocks are still reachable in loss record 53 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48D061E: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2E46: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 168 bytes in 1 blocks are still reachable in loss record 54 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48D061E: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2E99: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 168 bytes in 1 blocks are still reachable in loss record 55 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48D061E: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A0813: ??? (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3016: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 168 bytes in 1 blocks are possibly lost in loss record 56 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48D061E: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A2B53: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 168 bytes in 1 blocks are possibly lost in loss record 57 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48D061E: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x489B6F7: ??? (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x489F50D: ??? (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48B35BB: doupdate_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3939: wrefresh (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10BB6F: handleDisplay (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B8B3: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 168 bytes in 1 blocks are possibly lost in loss record 58 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48D061E: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D5278: _nc_tiparm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x489B687: ??? (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48B35BB: doupdate_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3939: wrefresh (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10BB6F: handleDisplay (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B8B3: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 172 bytes in 1 blocks are still reachable in loss record 59 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48B32BC: doupdate_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3939: wrefresh (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10B45B: displayHeader (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BD1D: handleGold (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B878: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 256 bytes in 1 blocks are still reachable in loss record 60 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x489B7DC: ??? (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x489E579: start_color_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEF9: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 344 bytes in 1 blocks are still reachable in loss record 61 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48B3B2A: doupdate_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3939: wrefresh (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10B45B: displayHeader (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BD1D: handleGold (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B878: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 344 bytes in 1 blocks are still reachable in loss record 62 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48B381E: doupdate_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3939: wrefresh (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10B45B: displayHeader (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BD1D: handleGold (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B878: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 512 bytes in 1 blocks are still reachable in loss record 63 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48A224C: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 688 bytes in 1 blocks are still reachable in loss record 64 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x489B935: ??? (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A0AD7: newwin_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A2634: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 688 bytes in 1 blocks are still reachable in loss record 65 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x489B935: ??? (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A0AD7: newwin_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A265D: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 688 bytes in 1 blocks are still reachable in loss record 66 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x489B935: ??? (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A0AD7: newwin_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A280E: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 712 bytes in 1 blocks are still reachable in loss record 67 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48DB783: _nc_read_termtype (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48DC5C1: _nc_read_file_entry (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48DC94C: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48DCAB0: _nc_read_entry2 (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D8135: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D82C5: _nc_setupterm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A21F7: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 712 bytes in 1 blocks are still reachable in loss record 68 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48CC27D: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D82F7: _nc_setupterm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A21F7: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 760 bytes in 1 blocks are still reachable in loss record 69 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48D826F: _nc_setupterm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A21F7: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 1,107 bytes in 1 blocks are still reachable in loss record 70 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48DB66A: _nc_read_termtype (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48DC5C1: _nc_read_file_entry (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48DC94C: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48DCAB0: _nc_read_entry2 (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D8135: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D82C5: _nc_setupterm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A21F7: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 1,108 bytes in 1 blocks are still reachable in loss record 71 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48CC418: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D82F7: _nc_setupterm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A21F7: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 1,632 bytes in 1 blocks are still reachable in loss record 72 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48CF036: new_prescr (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A34C3: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 1,664 bytes in 1 blocks are still reachable in loss record 73 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48DACFD: _nc_read_termtype (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48DC5C1: _nc_read_file_entry (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48DC94C: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48DCAB0: _nc_read_entry2 (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D8135: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D82C5: _nc_setupterm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A21F7: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 2,112 bytes in 1 blocks are still reachable in loss record 74 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48B330E: doupdate_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3939: wrefresh (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10B45B: displayHeader (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BD1D: handleGold (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B878: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 2,337 bytes in 1 blocks are still reachable in loss record 75 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48CC210: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D82F7: _nc_setupterm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A21F7: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 4,000 bytes in 1 blocks are still reachable in loss record 76 of 83
+==820900==    at 0x484DB80: realloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48CC9DC: _nc_doalloc (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48DB4E4: _nc_read_termtype (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48DC5C1: _nc_read_file_entry (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48DC94C: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48DCAB0: _nc_read_entry2 (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D8135: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D82C5: _nc_setupterm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A21F7: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 4,000 bytes in 1 blocks are still reachable in loss record 77 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48CC021: ??? (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48D82F7: _nc_setupterm (in /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4)
+==820900==    by 0x48A21F7: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 7,168 bytes in 1 blocks are still reachable in loss record 78 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x489E5AD: start_color_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEF9: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 7,268 bytes in 1 blocks are still reachable in loss record 79 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48AC797: ??? (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A657C: vw_printw (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A67FB: mvprintw (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10B4AC: displayGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BAD9: handleDisplay (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B8B3: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 7,830 bytes in 1 blocks are still reachable in loss record 80 of 83
+==820900==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48A234F: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 28,896 bytes in 43 blocks are still reachable in loss record 81 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48A0B14: newwin_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A2634: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 28,896 bytes in 43 blocks are still reachable in loss record 82 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48A0B14: newwin_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A265D: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== 28,896 bytes in 43 blocks are still reachable in loss record 83 of 83
+==820900==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==820900==    by 0x48A0B14: newwin_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A280E: newterm_sp (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A34D4: newterm (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x48A3567: initscr (in /usr/lib/x86_64-linux-gnu/libncurses.so.6.4)
+==820900==    by 0x10AEEA: displayStart (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10BECD: handleGrid (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10B83D: handleMessage (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900==    by 0x10D925: message_loop (message.c:387)
+==820900==    by 0x10ABA2: main (in /thayerfs/courses/24fall/cosc050/students_files/nuggets/linux/client)
+==820900== 
+==820900== LEAK SUMMARY:
+==820900==    definitely lost: 0 bytes in 0 blocks
+==820900==    indirectly lost: 0 bytes in 0 blocks
+==820900==      possibly lost: 712 bytes in 9 blocks
+==820900==    still reachable: 136,202 bytes in 200 blocks
+==820900==         suppressed: 0 bytes in 0 blocks
+==820900== 
+==820900== ERROR SUMMARY: 9 errors from 9 contexts (suppressed: 0 from 0)

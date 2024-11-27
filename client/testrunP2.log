@@ -1,0 +1,335 @@
+START OF LOG
+client on port 43830
+interactive player mode; name 'yoloswag'
+OK message received: OK B
+GRID message received: GRID 15 60
+displayStart
+wRows = 43
+wCols = 168
+DISPLAY message received
+GOLD message received: GOLD 0 0 250
+DISPLAY message received
+GOLD message received: GOLD 0 0 250
+DISPLAY message received
+GOLD message received: GOLD 0 0 250
+GOLD message received: GOLD 0 0 249
+GOLD message received: GOLD 0 0 248
+GOLD message received: GOLD 0 0 247
+DISPLAY message received
+GOLD message received: GOLD 0 0 247
+GOLD message received: GOLD 0 0 246
+DISPLAY message received
+GOLD message received: GOLD 0 0 246
+DISPLAY message received
+GOLD message received: GOLD 0 0 246
+DISPLAY message received
+GOLD message received: GOLD 0 0 246
+DISPLAY message received
+GOLD message received: GOLD 0 0 246
+DISPLAY message received
+GOLD message received: GOLD 0 0 246
+DISPLAY message received
+GOLD message received: GOLD 0 0 246
+DISPLAY message received
+GOLD message received: GOLD 0 0 246
+DISPLAY message received
+GOLD message received: GOLD 0 0 246
+DISPLAY message received
+GOLD message received: GOLD 0 0 246
+DISPLAY message received
+GOLD message received: GOLD 0 0 246
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+DISPLAY message received
+GOLD message received: GOLD 0 0 245
+GOLD message received: GOLD 0 0 244
+DISPLAY message received
+GOLD message received: GOLD 0 0 244
+DISPLAY message received
+GOLD message received: GOLD 0 0 244
+DISPLAY message received
+GOLD message received: GOLD 0 0 244
+DISPLAY message received
+GOLD message received: GOLD 0 0 244
+DISPLAY message received
+GOLD message received: GOLD 0 0 244
+DISPLAY message received
+GOLD message received: GOLD 0 0 244
+DISPLAY message received
+GOLD message received: GOLD 0 0 244
+DISPLAY message received
+GOLD message received: GOLD 0 0 244
+DISPLAY message received
+GOLD message received: GOLD 0 0 244
+DISPLAY message received
+GOLD message received: GOLD 0 0 244
+DISPLAY message received
+GOLD message received: GOLD 0 0 244
+DISPLAY message received
+GOLD message received: GOLD 0 0 244
+DISPLAY message received
+GOLD message received: GOLD 0 0 244
+DISPLAY message received
+GOLD message received: GOLD 0 0 244
+DISPLAY message received
+GOLD message received: GOLD 0 0 244
+DISPLAY message received
+GOLD message received: GOLD 0 0 244
+DISPLAY message received
+GOLD message received: GOLD 0 0 244
+GOLD message received: GOLD 1 1 243
+GOLD message received: GOLD 0 1 243
+GOLD message received: GOLD 1 2 242
+GOLD message received: GOLD 0 2 242
+GOLD message received: GOLD 3 5 239
+GOLD message received: GOLD 0 5 239
+GOLD message received: GOLD 1 6 238
+GOLD message received: GOLD 0 6 238
+GOLD message received: GOLD 1 7 237
+GOLD message received: GOLD 0 7 237
+GOLD message received: GOLD 1 8 236
+GOLD message received: GOLD 0 8 236
+GOLD message received: GOLD 1 9 235
+GOLD message received: GOLD 0 9 235
+GOLD message received: GOLD 1 10 234
+GOLD message received: GOLD 0 10 234
+GOLD message received: GOLD 2 12 232
+GOLD message received: GOLD 0 12 232
+DISPLAY message received
+GOLD message received: GOLD 0 12 232
+DISPLAY message received
+GOLD message received: GOLD 0 12 232
+DISPLAY message received
+GOLD message received: GOLD 0 12 232
+DISPLAY message received
+GOLD message received: GOLD 0 12 232
+DISPLAY message received
+GOLD message received: GOLD 0 12 232
+DISPLAY message received
+GOLD message received: GOLD 0 12 232
+DISPLAY message received
+GOLD message received: GOLD 0 12 232
+DISPLAY message received
+GOLD message received: GOLD 0 12 232
+DISPLAY message received
+GOLD message received: GOLD 0 12 232
+DISPLAY message received
+GOLD message received: GOLD 0 12 232
+DISPLAY message received
+GOLD message received: GOLD 0 12 232
+DISPLAY message received
+GOLD message received: GOLD 0 12 232
+DISPLAY message received
+GOLD message received: GOLD 0 12 232
+DISPLAY message received
+GOLD message received: GOLD 0 12 232
+DISPLAY message received
+GOLD message received: GOLD 0 12 232
+DISPLAY message received
+GOLD message received: GOLD 0 12 232
+DISPLAY message received
+GOLD message received: GOLD 0 12 232
+DISPLAY message received
+GOLD message received: GOLD 0 12 232
+GOLD message received: GOLD 0 12 199
+DISPLAY message received
+GOLD message received: GOLD 0 12 199
+DISPLAY message received
+GOLD message received: GOLD 0 12 199
+DISPLAY message received
+GOLD message received: GOLD 0 12 199
+DISPLAY message received
+GOLD message received: GOLD 0 12 199
+DISPLAY message received
+GOLD message received: GOLD 0 12 199
+DISPLAY message received
+GOLD message received: GOLD 0 12 199
+DISPLAY message received
+GOLD message received: GOLD 0 12 199
+DISPLAY message received
+GOLD message received: GOLD 0 12 199
+DISPLAY message received
+GOLD message received: GOLD 0 12 199
+DISPLAY message received
+GOLD message received: GOLD 0 12 199
+DISPLAY message received
+GOLD message received: GOLD 0 12 199
+DISPLAY message received
+GOLD message received: GOLD 0 12 199
+DISPLAY message received
+GOLD message received: GOLD 0 12 199
+DISPLAY message received
+GOLD message received: GOLD 0 12 199
+DISPLAY message received
+GOLD message received: GOLD 0 12 199
+DISPLAY message received
+GOLD message received: GOLD 0 12 199
+DISPLAY message received
+GOLD message received: GOLD 0 12 199
+DISPLAY message received
+GOLD message received: GOLD 0 12 199
+DISPLAY message received
+GOLD message received: GOLD 0 12 199
+DISPLAY message received
+GOLD message received: GOLD 0 12 199
+GOLD message received: GOLD 0 12 198
+GOLD message received: GOLD 0 12 197
+DISPLAY message received
+GOLD message received: GOLD 0 12 197
+DISPLAY message received
+GOLD message received: GOLD 0 12 197
+DISPLAY message received
+GOLD message received: GOLD 0 12 197
+DISPLAY message received
+GOLD message received: GOLD 0 12 197
+DISPLAY message received
+GOLD message received: GOLD 0 12 197
+DISPLAY message received
+GOLD message received: GOLD 0 12 197
+DISPLAY message received
+GOLD message received: GOLD 0 12 197
+DISPLAY message received
+GOLD message received: GOLD 0 12 197
+GOLD message received: GOLD 0 12 0
+DISPLAY message received
+GOLD message received: GOLD 0 12 0
+QUIT message received: QUIT GAME OVER:
+A   238    yolo
+B   12    yoloswag
+
+END OF LOG
